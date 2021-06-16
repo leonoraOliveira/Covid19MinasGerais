@@ -4,7 +4,7 @@ O GRUPO de Trabalho da Squad 7 Projeto Infectodata COVID-19 está coletando info
 
 # Metodologia & Dashboard
 Informações detalhadas sobre nossa metodologia de coleta de dados e fontes, respostas a perguntas de dados frequentemente feitas,notas de dados específicas e mais informações sobre a análise COVID-19 estão disponíveis.
-Também criamos um painel interativo para análises visuais e epidemiológicas atualizadas.
+Também criamos um painel interativo para análises visuais e epidemiológicas atualizadas no link https://app.powerbi.com/groups/me/reports/cc5fc2b4-da03-468a-8493-96d3a8383e6b/ReportSection.
 
 # Datasets
 O conjunto de dados completo pode ser baixado em formato CSV a partir deste repositório https://coronavirus.saude.mg.gov.br/painel.
